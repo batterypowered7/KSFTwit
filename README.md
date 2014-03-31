@@ -27,4 +27,16 @@ KSFTwit is a simple, text-based Twitter client meant to be run from the terminal
    This will grant you access to the application's functions.
    
 ##Screenshots
-![Starting the Application](//Screen%20Shot%202014-03-31%20at%201.35.20%20AM.png)
+![alt text](http://i.imgur.com/ZoV2UL2.png "Starting the application.")
+
+![alt text](http://i.imgur.com/LyInMMl.png "Retrieving your PIN.")
+
+![alt text](http://i.imgur.com/SLHPMQf.png "Main Menu")
+
+![alt text](http://i.imgur.com/0fapPtF.png "Reading my received messages.")
+
+![alt text](http://i.imgur.com/9dDf3zL.png "Updating my status.")
+
+![alt text](http://i.imgur.com/rlYtVHS.png "Success!")
+
+![alt text](http://i.imgur.com/AhBo5Jd.png "Ending program execution.")

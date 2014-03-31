@@ -11,6 +11,7 @@ KSFTwit is a simple, text-based Twitter client meant to be run from the terminal
 ##Where to Download:
 
 [Twitter4J](http://twitter4j.org/en/index.html)
+
 [KSFTwit](https://www.dropbox.com/s/v2tu52j34gompm9/TwitterTerminal.jar)
 
 ##Instructions:

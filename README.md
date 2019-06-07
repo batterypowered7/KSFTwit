@@ -33,7 +33,7 @@ KSFTwit is a simple, text-based Twitter client meant to be run from the terminal
 
 You will have to download the Twitter4J library from the URL provided in the "Where to Download" section and link it to your project. It will not work otherwise.
    
-##Screenshots
+## Screenshots
 ![alt text](http://i.imgur.com/ZoV2UL2.png "Starting the application.")
 
 ![alt text](http://i.imgur.com/LyInMMl.png "Retrieving your PIN.")

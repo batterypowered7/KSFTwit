@@ -1,4 +1,4 @@
-#**KSFTwit**
+# **KSFTwit**
 
 KSFTwit is a simple, text-based Twitter client meant to be run from the terminal. It uses the Twitter4J library for the Twitter API. Though not terribly thorough, KSFTwit does provide the user with some basic functions, such as:
 

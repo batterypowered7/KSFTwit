@@ -2,7 +2,7 @@
 
 KSFTwit is a simple, text-based Twitter client meant to be run from the terminal. It uses the Twitter4J library for the Twitter API. Though not terribly thorough, KSFTwit does provide the user with some basic functions, such as:
 
-- Publishing a new tweet.
+-- Publishing a new tweet.
 - Sending a direct message to a user.
 - Reading direct messages that have been received.
 - Displaying the twenty most recent tweets on your feed.
